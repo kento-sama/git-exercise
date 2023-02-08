@@ -13,8 +13,14 @@
       <li>Expanding personal horizons</li>
       <li>Broadening one's perspective and understanding of different cultures</li>
       <li>Stimulating the mind and promoting cognitive development</li>
+<<<<<<< HEAD
       <li>mckie</li> 
     </ul> 
+=======
+      <li>Melcris here.</li>
+      <li>Kent</li>
+    </ul>
+>>>>>>> 5dad1186ed109ce538988b124b67a1e537a910b6
     <h2>Ways to Learn</h2>
     <ol>
       <li>Formal education through schools and universities</li>
