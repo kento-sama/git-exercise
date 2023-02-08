@@ -13,6 +13,7 @@
       <li>Expanding personal horizons</li>
       <li>Broadening one's perspective and understanding of different cultures</li>
       <li>Stimulating the mind and promoting cognitive development</li>
+      <li>Florin</li>
       <li>Melcris here.</li>
       <li>Kent</li>
     </ul>
