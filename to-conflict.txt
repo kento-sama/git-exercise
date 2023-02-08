@@ -13,7 +13,11 @@
       <li>Expanding personal horizons</li>
       <li>Broadening one's perspective and understanding of different cultures</li>
       <li>Stimulating the mind and promoting cognitive development</li>
+<<<<<<< HEAD
       <li>Melcris here.</li>
+=======
+      <li>Kent</li>
+>>>>>>> 10f47f3ca0d02ff403b2b7f5a15b546b16e11847
     </ul>
     <h2>Ways to Learn</h2>
     <ol>
