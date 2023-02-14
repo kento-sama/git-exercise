@@ -16,7 +16,7 @@
       <li>mckie</li> 
       <li>Florin</li>
       <li>Melcris here.</li>
-      <li>Kent</li>
+      <li>JD</li>
     </ul> 
     <h2>Ways to Learn</h2>
     <ol>
