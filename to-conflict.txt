@@ -16,7 +16,12 @@
       <li>mckie</li> 
       <li>Florin</li>
       <li>Melcris here.</li>
+<<<<<<< HEAD
       <li>JD</li>
+=======
+      <li>Kent</li>
+      <li>for conflict</li>
+>>>>>>> 3eba62290cc6ffdb786b6b49ae80857a8e4f1a5a
     </ul> 
     <h2>Ways to Learn</h2>
     <ol>
